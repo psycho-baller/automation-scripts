@@ -13,7 +13,7 @@
 
 # Documentation:
 # @raycast.author Rami Maalouf
-# @raycast.authorURL https://github.com/psycho-baller
+# @raycast.authorURL https://github.com/rami-maalouf
 
 import datetime
 import sys
